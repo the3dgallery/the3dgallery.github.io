@@ -31,9 +31,11 @@ body {
   border-bottom: 3px solid #222;
 }
 
-.container .heading h3 span{
+/* .container .heading h3 span{
   font-weight: 100;
-}
+} */
+
+
 .container .box{
  display: flex;
  flex-direction: row;
